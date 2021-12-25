@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Thanks for visiting my GitHub profile</h1>
 <h3 align="center">A tech enthusiast who loves to develop software solutions.</h3>
 
-### About Me
+<h3 align="left">About Me</h3>
 
 
 <h3 align="left">Connect with me:</h3>
