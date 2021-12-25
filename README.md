@@ -4,7 +4,7 @@
   
  <h3 align="left" dir="auto">About Me:</h3>
   
-<p dir="auto">My name is Akhil Abothu and 𝑰 ❤️ love to develop weeb applications!</p>
+<p dir="auto">My name is Akhil Abothu and 𝑰 ❤️ love to develop web applications!</p>
 <p dir="auto">Also, I am a...</p>
 <ul dir="auto">
 <li>Full stack developer from India.</li>
