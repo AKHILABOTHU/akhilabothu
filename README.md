@@ -1,6 +1,6 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 <p dir="auto">Hey there! Thanks for visiting my GitHub profile. <g-emoji class="g-emoji" alias="raising_hand_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png">🙋‍♂️</g-emoji></p>
-<h2 dir="auto"><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me">About me</h2>
+<h2 dir="auto"><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me">About me</a></h2>
 <p dir="auto">My name is Akhil Abothu and I love to develop web  applications!</p>
 <p dir="auto">Also, I am a...</p>
 <ul dir="auto">
@@ -8,8 +8,6 @@
 <li> Bachelore of Technology in Computer Science and Engineering from the Sai Spurthi Institute of Technology (JNTUH).<g-emoji class="g-emoji" alias="man_student" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f393.png">👨‍🎓</g-emoji></li>
 </ul>
   
-<p dir="auto">You can follow this link - <a href="https://www.andre-landgraf.dev" rel="nofollow">andre-landgraf.dev</a> - to my personal website for more information!</p>
-<p dir="auto">Please hit me up on <a href="https://twitter.com/AndreLandgraf94" rel="nofollow">Twitter</a> or <a href="https://www.linkedin.com/in/andre-landgraf/" rel="nofollow">LinkedIn</a> to get in touch. I love to chat about tech &amp; IT!</p>
 <p dir="auto">I love and use:</p>
 <ul dir="auto">
 <li>Vue <g-emoji class="g-emoji" alias="purple_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png">💜</g-emoji></li>
@@ -18,7 +16,7 @@
 <li>MySQL</li>
 </ul>
 
-  <h3 align="left" style="border-bottom: 1px solid var(--color-border-muted);">Connect with me:</h3>
+  <h3 align="left"><a  style="border-bottom: 1px solid var(--color-border-muted);">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/crazyboyakhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crazyboyakhil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akhilabothu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhilabothu" height="30" width="40" /></a>
