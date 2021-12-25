@@ -1,6 +1,8 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
+<article>
 <p dir="auto">Hey there! Thanks for visiting my GitHub profile. <g-emoji class="g-emoji" alias="raising_hand_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png">🙋‍♂️</g-emoji></p>
-  <h3 align="left">about Me:</h3>
+  
+ <h3 align="left" dir="auto">About Me:</h3>
+  
 <p dir="auto">My name is Akhil Abothu and I love to develop web  applications!</p>
 <p dir="auto">Also, I am a...</p>
 <ul dir="auto">
