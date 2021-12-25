@@ -37,7 +37,8 @@
  <a href="" target="_blank" rel="noreferrer">  <img  align="center" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/></a>
   
    <h3 align="left">Operating Systems</h3>
-  
+<a href="" target="_blank" rel="noreferrer">    <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
+<a href="" target="_blank" rel="noreferrer">v <img src="https://img.icons8.com/fluency/48/000000/windows-10.png"/> </a>
    <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/crazyboy_akhil" target="_blank"><img  align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" /></a>
