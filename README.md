@@ -17,18 +17,8 @@
 <li>Spring</li>
 <li>MySQL</li>
 </ul>
-
-  <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/crazyboy_akhil" target="_blank"><img  align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" /></a>
-<a href="https://www.linkedin.com/in/akhil-abothu" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
-<a href="https://www.facebook.com/akhil.abothu501" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" /></a>
-<a href="https://instagram.com/akhilabothu" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-</p>
-  
   
   <h3 align="left">Languages & Frameworks:</h3>
-  
 <p align="left"> 
   <a href="" target="_blank" rel="noreferrer"> <img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png" /> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img align="center" src="https://img.icons8.com/color/48/000000/css3.png" /> </a> 
@@ -37,9 +27,21 @@
   <a href="" target="_blank" rel="noreferrer"> <img align="center" src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img align="center"  src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a>
   <a href="" target="_blank" rel="noreferrer"><img align="center" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>
-  
-  
   </p>
+  
+   <h3 align="left">Database:</h3>
+  
+   <h3 align="left">Tools:</h3>
+  
+   <h3 align="left">Operating Systems</h3>
+  
+   <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/crazyboy_akhil" target="_blank"><img  align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" /></a>
+<a href="https://www.linkedin.com/in/akhil-abothu" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
+<a href="https://www.facebook.com/akhil.abothu501" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" /></a>
+<a href="https://instagram.com/akhilabothu" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+</p>
 
 
 </article>
