@@ -1,6 +1,6 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 <p dir="auto">Hey there! Thanks for visiting my GitHub profile. <g-emoji class="g-emoji" alias="raising_hand_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png">🙋‍♂️</g-emoji></p>
-### About Me
+  <h3 align="left">about Me:</h3>
 <p dir="auto">My name is Akhil Abothu and I love to develop web  applications!</p>
 <p dir="auto">Also, I am a...</p>
 <ul dir="auto">
@@ -16,7 +16,7 @@
 <li>MySQL</li>
 </ul>
 
-  <h3 align="left"><a  style="border-bottom: 1px solid var(--color-border-muted);">Connect with me:</a></h3>
+  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/crazyboyakhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crazyboyakhil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akhilabothu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhilabothu" height="30" width="40" /></a>
