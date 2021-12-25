@@ -28,20 +28,12 @@
   
   
   <h3 align="left">Languages:</h3>
+  
 <p align="left"> 
-  
   <a href="" target="_blank" rel="noreferrer"> <img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png" /> </a> 
-  
   <a href="" target="_blank" rel="noreferrer"> <img align="center" src="https://img.icons8.com/color/48/000000/css3.png" /> </a> 
-  
  <a href="" target="_blank" rel="noreferrer"> <img align="center" src="https://img.icons8.com/color/48/000000/javascript--v1.png" /> </a>
-  
-  <a href="" target="_blank" rel="noreferrer"> </a>
-    <a href="" target="_blank" rel="noreferrer"> </a>
-      <a href="" target="_blank" rel="noreferrer"> </a>
-        <a href="" target="_blank" rel="noreferrer"> </a>
-          <a href="" target="_blank" rel="noreferrer"> </a>
-            <a href="" target="_blank" rel="noreferrer"> </a>
+  </p>s
 
 
 </article>
