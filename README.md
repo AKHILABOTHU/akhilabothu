@@ -4,6 +4,10 @@
 <h3 align="left">About Me</h3>
 <hr>
 <p align="left">My name is Akhil Abothu and I love to develop web!. My collegues know me as the web enthusiast.</p>
+<p>Also, I am a...</p>
+
+ <ul> <li>fulltack developer from India, Telanagana. </li>
+ <li>  B.TECH in Computer Science Engineering from the Sai Spurthi Institute of Technology (JNTUH) 👨‍🎓 </li> <ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
