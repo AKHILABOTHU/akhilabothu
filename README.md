@@ -15,20 +15,17 @@
 <li>Vue <g-emoji class="g-emoji" alias="purple_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png">💜</g-emoji></li>
 <li>JavaScript</li>
 <li>Spring</li>
-<li>MySQl</li>
+<li>MySQL</li>
 </ul>
 
-<p dir="auto">Some exercises that helped me prepare for my exam in discrete structures.</p>
-<p dir="auto">=&gt; <a href="https://github.com/andrelandgraf/graph-theory">graph-theory</a>
-=&gt; <a href="https://github.com/andrelandgraf/gale-shapley-algorithm">gale-shapley-algorithm</a></p>
-<h2 dir="auto"><a id="user-content-contact" class="anchor" aria-hidden="true" href="#contact"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contact</h2>
-<p dir="auto">I love to chat about tech &amp; IT! Please hit me up on Twitter or LinkedIn! You can find me here:</p>
-<ul dir="auto">
-<li><a href="https://twitter.com/AndreLandgraf94" rel="nofollow">Twitter</a> - @andrelandgraf94</li>
-<li><a href="https://www.linkedin.com/in/andre-landgraf/" rel="nofollow">LinkedIn</a></li>
-<li><a href="https://www.instagram.com/andre.fullstack/" rel="nofollow">Instagram</a> - andre.fullstack</li>
-<li><a href="https://stackoverflow.com/users/6331985/andre" rel="nofollow">StackOverflow</a></li>
-<li><a href="https://www.npmjs.com/settings/andrelandgraf/packages" rel="nofollow">npm</a></li>
-<li><a href="https://andrelandgraf.medium.com/" rel="nofollow">Medium</a></li>
-</ul>
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/crazyboyakhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crazyboyakhil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akhilabothu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhilabothu" height="30" width="40" /></a>
+<a href="https://fb.com/akhilabothu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akhilabothu" height="30" width="40" /></a>
+<a href="https://instagram.com/akhilabothu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhilabothu" height="30" width="40" /></a>
+</p>
+
+
+
 </article>
