@@ -1,5 +1,4 @@
-<article>
- 
+
   <h1 align="center">Hi 👋, Thanks for visiting my GitHub profile. 🙋‍</h1>
   
  <h3 align="left" dir="auto">About Me:</h3>
@@ -49,5 +48,3 @@
 <a href="https://instagram.com/akhilabothu" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 </p>
 
-
-</article>
