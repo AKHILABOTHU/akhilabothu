@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akhil Abothu, Thanks for visiting my GitHub profile</h1>
+<h1 align="center">Hi 👋, Thanks for visiting my GitHub profile</h1>
 <h3 align="center">A passionate web developer from India, Telangana</h3>
 
 ### About Me
