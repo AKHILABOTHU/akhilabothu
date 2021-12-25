@@ -1,5 +1,5 @@
 <article>
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
+ 
   <h1 align="center">Hi 👋, Thanks for visiting my GitHub profile. 🙋‍</h1>
   
  <h3 align="left" dir="auto">About Me:</h3>
