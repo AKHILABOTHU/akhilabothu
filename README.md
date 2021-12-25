@@ -16,6 +16,7 @@
 <li>JavaScript</li>
 <li>Spring</li>
 <li>MySQL</li>
+  <li>JWT</li>
 </ul>
   
   <h3 align="left">Languages & Frameworks:</h3>
