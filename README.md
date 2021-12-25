@@ -8,7 +8,7 @@
 <p dir="auto">Also, I am a...</p>
 <ul dir="auto">
 <li>Full stack developer from India.</li>
-<li> Bachelore of Technology in Computer Science and Engineering from the Sai Spurthi Institute of Technology (JNTUH).<g-emoji class="g-emoji" alias="man_student" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f393.png">👨‍🎓</g-emoji></li>
+<li> Bachelor of Technology in Computer Science and Engineering from the Sai Spurthi Institute of Technology (JNTUH).<g-emoji class="g-emoji" alias="man_student" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f393.png">👨‍🎓</g-emoji></li>
 </ul>
   
 <p dir="auto">I love and use:</p>
