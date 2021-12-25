@@ -20,10 +20,10 @@
 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/crazyboy_akhil" target="blank"><img  align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" /></a>
-<a href="https://linkedin.com/in/akhilabothu" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
-<a href="https://fb.com/akhilabothu" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" /></a>
-<a href="https://instagram.com/akhilabothu" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/crazyboy_akhil" target="_blank"><img  align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" /></a>
+<a href="https://www.linkedin.com/in/akhil-abothu" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
+<a href="https://www.facebook.com/akhil.abothu501" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" /></a>
+<a href="https://instagram.com/akhilabothu" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 </p>
   
   
