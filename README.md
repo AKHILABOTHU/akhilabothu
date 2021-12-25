@@ -1,5 +1,5 @@
 <article>
-<p dir="auto">Hey there! Thanks for visiting my GitHub profile. <g-emoji class="g-emoji" alias="raising_hand_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png">🙋‍♂️</g-emoji></p>
+  <h1 align="center">Hi 👋, Thanks for visiting my GitHub profile. 🙋‍</h1>
   
  <h3 align="left" dir="auto">About Me:</h3>
   
