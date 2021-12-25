@@ -30,8 +30,11 @@
   </p>
   
    <h3 align="left">Database:</h3>
-  
-   <h3 align="left">Tools:</h3>
+ <a href="" target="_blank" rel="noreferrer">   <img align="center" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
+   <h3 align="left">IDE & Tools:</h3>
+ <a href="" target="_blank" rel="noreferrer">  <img align="center" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img align="center" src="https://img.icons8.com/office/40/000000/java-eclipse.png"/></a>
+ <a href="" target="_blank" rel="noreferrer">  <img  align="center" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/></a>
   
    <h3 align="left">Operating Systems</h3>
   
