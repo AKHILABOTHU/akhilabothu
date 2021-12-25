@@ -12,7 +12,7 @@
   
 <p dir="auto">I love and use:</p>
 <ul dir="auto">
-<li>Vue <g-emoji class="g-emoji" alias="purple_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png">💜</g-emoji></li>
+<li>Vue</li>
 <li>JavaScript</li>
 <li>Spring</li>
 <li>MySQL</li>
@@ -20,7 +20,7 @@
 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/crazyboyakhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crazyboyakhil" height="30" width="40" /></a>
+<a href="https://twitter.com/crazyboy_akhil" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/twitter--v1.png" alt="crazyboyakhil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akhilabothu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhilabothu" height="30" width="40" /></a>
 <a href="https://fb.com/akhilabothu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akhilabothu" height="30" width="40" /></a>
 <a href="https://instagram.com/akhilabothu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhilabothu" height="30" width="40" /></a>
