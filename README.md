@@ -2,7 +2,7 @@
 <h3 align="center">A tech enthusiast who loves to develop software solutions.</h3>
 
 <h3 align="left">About Me</h3>
-
+<p align="left">My name is Akhil Abothu and I love to develop web!. My collegues know me as the web enthusiast.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
